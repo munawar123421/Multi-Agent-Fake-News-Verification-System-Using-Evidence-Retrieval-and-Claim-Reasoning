@@ -1,0 +1,42 @@
+[
+  {
+    "claim": "COVID-19 vaccines contain microchips",
+    "expected_verdict": "REFUTE"
+  },
+  {
+    "claim": "The Earth is approximately 4.5 billion years old",
+    "expected_verdict": "SUPPORT"
+  },
+  {
+    "claim": "Drinking water helps maintain body hydration",
+    "expected_verdict": "SUPPORT"
+  },
+  {
+    "claim": "5G networks cause coronavirus",
+    "expected_verdict": "REFUTE"
+  },
+  {
+    "claim": "Humans have landed on the Moon",
+    "expected_verdict": "SUPPORT"
+  },
+  {
+    "claim": "Climate change is caused by human activities",
+    "expected_verdict": "SUPPORT"
+  },
+  {
+    "claim": "Vaccines cause autism",
+    "expected_verdict": "REFUTE"
+  },
+  {
+    "claim": "The Great Wall of China is visible from space",
+    "expected_verdict": "REFUTE"
+  },
+  {
+    "claim": "Water boils at 100 degrees Celsius at sea level",
+    "expected_verdict": "SUPPORT"
+  },
+  {
+    "claim": "Lightning never strikes the same place twice",
+    "expected_verdict": "REFUTE"
+  }
+]
